@@ -3,15 +3,15 @@
 **Course Code**: CSE 455  
 **Course Credits**: 2.00  
 
-**Submitted To**: 
-*Pankaj Bhowmik*
-*Lecturer, Department of Computer Science and Engineering*
+**Submitted To**: <br>
+*Pankaj Bhowmik*<br>
+*Lecturer, Department of Computer Science and Engineering*<br>
 
-**Submitted By**: 
-*Hamday Rabby Hossain Auni, Student ID: 2002007*
-**Level**: 4, **Semester**: II  
+**Submitted By**: <br>
+*Hamday Rabby Hossain Auni, Student ID: 2002007* <br>
+**Level**: 4, **Semester**: II <br>  
 
-**Department of Computer Science and Engineering**  
+**Department of Computer Science and Engineering** 
 **Hajee Mohammad Danesh Science and Technology University (HSTU)**  
 **Dinajpur-5200, Bangladesh**  
 
