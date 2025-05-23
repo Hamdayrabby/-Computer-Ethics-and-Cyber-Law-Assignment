@@ -1,4 +1,6 @@
-
+**An Assignment on**
+**Building a Resilient Digital Future: Proposing Legal Reforms for Cyber Law in
+Bangladesh Based on Leading Global Examples**
 **Course Title**: Computer Ethics and Cyber Law  
 **Course Code**: CSE 455  
 **Course Credits**: 2.00  
